@@ -4,7 +4,13 @@ target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
-.idea/*
+.idea
+.mvn
+.target
+.gitattributes
+HELP.md
+mvnw.cmd
+mvnw
 *.class
 *.war
 *.jar

@@ -14,7 +14,13 @@ target/
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea/*
+.idea
+.mvn
+.target
+.gitattributes
+HELP.md
+mvnw.cmd
+mvnw
 *.class
 *.war
 *.jar
